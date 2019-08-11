@@ -1,3 +1,9 @@
+#---------------------------------
+# Addon based on code from Tukui
+# Most of the work done is credited
+# to Tukz (http://tukui.org)
+#---------------------------------
+
 ## Interface: 80200
 ## Author: Amexi
 ## Version: 1.0
@@ -9,7 +15,7 @@
 ## X-oUF: AmexiUIUnitFrameFramework
 
 Core\Init.lua
-#Config Init
+Core\Config.lua
 Libs\Init.xml
 Media\Media.lua
 #Core.Init.xml
