@@ -5,7 +5,7 @@ C["Media"] = {
     ["SEMPRG__"] = [[Interface\AddOns\AmexiUI\Media\Fonts\SEMPRG__.ttf]],
     ["Standard"] = [[Interface\AddOns\AmexiUI\Media\Fonts\standard.ttf]],
     ["BebasNeue"] = [[Interface\AddOns\AmexiUI\Media\Fonts\BebasNeue.ttf]],
-    ["Ubuntu_Light"] = [[Interface\AddOns\AmexiUI\Media\Fonts\Ubuntu-L.ttf]],
+    ["Ubuntu-Light"] = [[Interface\AddOns\AmexiUI\Media\Fonts\Ubuntu-L.ttf]],
 
     -- Textures
     ["fer28"] = [[Interface\AddOns\AmexiUI\Media\Textures\fer28]],
