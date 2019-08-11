@@ -6,9 +6,10 @@
 ## SavedVariables: AUIDB
 ## SavedVariablesPerCharacter: AUICharDB
 ## OptionalDeps: AmexiUI_Config
+## X-oUF: AmexiUIUnitFrameFramework
 
 Core\Init.lua
 #Config Init
-#Libs\Init.xml
+Libs\Init.xml
 #Media\Media.lua
 #Core.Init.xml
