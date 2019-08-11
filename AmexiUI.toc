@@ -1,9 +1,3 @@
-#---------------------------------
-# Addon based on code from Tukui
-# Most of the work done is credited
-# to Tukz (http://tukui.org)
-#---------------------------------
-
 ## Interface: 80200
 ## Author: Amexi
 ## Version: 1.0
@@ -11,11 +5,10 @@
 ## Notes: User Interface for World of Warcraft
 ## SavedVariables: AUIDB
 ## SavedVariablesPerCharacter: AUICharDB
-## OptionalDeps: AmexiUI_Config
-## X-oUF: AmexiUIUnitFrameFramework
+## X-oUF: AmexiUIUnitFrames
 
-Core\Init.lua
-Core\Config.lua
 Libs\Init.xml
+Core\Init.lua
+#Core\Config.lua
 Media\Media.lua
 #Core.Init.xml
