@@ -11,5 +11,5 @@
 Core\Init.lua
 #Config Init
 Libs\Init.xml
-#Media\Media.lua
+Media\Media.lua
 #Core.Init.xml
