@@ -3,12 +3,14 @@
 ## Version: 1.0
 ## Title: |c0024AAAAAmexi|cFFFFFFFFUI|r
 ## Notes: User Interface for World of Warcraft
-## SavedVariables: AUIDB
-## SavedVariablesPerCharacter: AUICharDB
+## SavedVariables: AUIDB, AUIPrivateDB
+## SavedVariablesPerCharacter: AUICharacterDB
 ## X-oUF: AmexiUIUnitFrames
 
+Devs\Init.xml
 Libs\Init.xml
 Core\Init.lua
-#Core\Config.lua
+
 Media\Media.lua
-#Core.Init.xml
+#Config\Config.lua
+Core\Init.xml

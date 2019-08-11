@@ -1,6 +1,6 @@
-local A, C = unpack(select(2, ...))
+local A, G = unpack(select(2, ...))
 
-C["Media"] = {
+G["Media"] = {
     -- Fonts
     ["SEMPRG__"] = [[Interface\AddOns\AmexiUI\Media\Fonts\SEMPRG__.ttf]],
     ["Standard"] = [[Interface\AddOns\AmexiUI\Media\Fonts\standard.ttf]],
