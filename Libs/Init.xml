@@ -1,0 +1,7 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui">
+    <Include file="oUF\oUF.xml"/>
+    <Script file="oUF_Smooth\oUF_Smooth.lua"/>
+    <Include file="DropDownMenu\UIDropDownMenuTemplates.xml"/>
+    <Script file="DropDownMenu\EasyMenu.lua"/>
+    <Script file="DropDownMenu\UIDropDownMenu.lua"/>
+</Ui>
