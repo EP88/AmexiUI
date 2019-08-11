@@ -1,1 +1,14 @@
 ## Interface: 80200
+## Author: Amexi
+## Version: 1.0
+## Title: |c0024AAAAAmexi|cFFFFFFFFUI|r
+## Notes: User Interface for World of Warcraft
+## SavedVariables: AUIDB
+## SavedVariablesPerCharacter: AUICharDB
+## OptionalDeps: AmexiUI_Config
+
+Core\Init.lua
+#Config Init
+#Libs\Init.xml
+#Media\Media.lua
+#Core.Init.xml
