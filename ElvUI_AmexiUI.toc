@@ -1,0 +1,17 @@
+## Interface: 80200
+## Author: Amexi
+## Version: 1.0
+## Title: |cff1784d1ElvUI|r |cff00c0faAmexiUI|r
+## Notes: An ElvUI edit
+## RequiredDeps: ElvUI
+## DefaultState: Enabled
+## OptionalDeps: SharedMedia, AddOnSkins
+
+Media\Init.xml
+Config\Init.xml
+
+Core\Init.lua
+
+Core\Init.xml
+Layout\Init.xml
+Modules\Init.xml
